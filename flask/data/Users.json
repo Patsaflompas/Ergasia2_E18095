@@ -1,11 +1,5 @@
 [{
   "_id": {
-    "$oid": "60bfafe6ca06efc5249b1fdb"
-  },
-  "name": "testuser1",
-  "password": "testpassword1"
-},{
-  "_id": {
     "$oid": "60c0e6fc47cc7993fe56628c"
   },
   "name": "user1",
