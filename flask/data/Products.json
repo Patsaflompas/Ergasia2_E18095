@@ -1,0 +1,43 @@
+[{
+  "_id": 1234,
+  "name": "TsitaBombas",
+  "price": 1945,
+  "description": "Tsita bomba filaraki",
+  "category": "tester",
+  "stock": 100
+},{
+  "_id": 7568,
+  "name": "prod2",
+  "price": 24.32,
+  "desctription": "test product 2 is the new 1!",
+  "category": "tester",
+  "stock": 4
+},{
+  "_id": 2568,
+  "name": "prod1",
+  "price": 12.23,
+  "desctription": "test product 1 does nothing!",
+  "category": "tester",
+  "stock": 52
+},{
+  "_id": 9517,
+  "name": "product",
+  "price": 12.23,
+  "desctription": "test product a does nothing!",
+  "category": "tester",
+  "stock": 52
+},{
+  "_id": 291435,
+  "name": "Super Krema",
+  "category": "Kremes",
+  "stock": 122,
+  "description": "Katharizei ta panta!",
+  "price": 9.99
+},{
+  "_id": 803327,
+  "name": "Super Kreas",
+  "category": "Kreatika",
+  "stock": 12,
+  "description": "Trwgetai me ta panta!",
+  "price": 12.49
+}]
